@@ -5,3 +5,4 @@ carne
 Verdura
 Pane
 Dolce
+paprica
